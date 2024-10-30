@@ -22,5 +22,4 @@ const NavItem :React.FC<NavItemProps> = ({
     </Link>
   )
 }
-
 export default NavItem
